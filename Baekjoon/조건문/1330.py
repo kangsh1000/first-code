@@ -5,4 +5,4 @@ if A > B:
 elif A < B:
     print("<")
 else:
-    print("=")
+    print("==")
